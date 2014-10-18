@@ -1,6 +1,6 @@
 # My Demo Repository for DST4L
 
-> This is the demo repository created 10-19-2014 based on instructions from Kyle Daigle
+> This is the demo repository created 10-18-2014 based on instructions from Kyle Daigle
 
 > "This is the most cookie-filled class yet" ... Chris
 
